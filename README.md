@@ -10,6 +10,5 @@ This worked for me, after some research:
 
 - results I got from PIL and cv2 are:
 
-
-    with_PIL execution time: 7.29 seconds
-    with_cv2 execution time: 6.81 seconds
+        with_PIL execution time: 7.29 seconds
+        with_cv2 execution time: 6.81 seconds
